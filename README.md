@@ -1,4 +1,4 @@
-#Asynchronous Tasks with FastAPI, ARQ and Frontend
+# Asynchronous Tasks with FastAPI, ARQ and Frontend
 
 Git Repo for the tutorial as described in the blog post below:
 
